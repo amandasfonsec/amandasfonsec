@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
  
  <br>
  
-  ### Mais informações:
+  
  
 <div> 
  
