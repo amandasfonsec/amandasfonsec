@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasfonsec&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-# Linguagens:
+Linguagens:
 <div style="display: inline_block"><br>
  <center>
   <img align="center" alt="Js" height="30" width="40" 
