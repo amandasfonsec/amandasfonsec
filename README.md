@@ -1,8 +1,10 @@
 ## 💜 | Oie, seja bem-vindo(a) ao meu perfil!
 Me chamo Amanda, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas. 
 
-<div class="tenor-gif-embed" data-postid="16182916" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><center>
- <a href="https://tenor.com/view/cat-hiss-cat-hiss-mean-cat-leave-me-alone-gif-16182916">Cat Hiss GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></center></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.tenor.com/ViIl_vZRt4kAAAAd/cat-hiss-cat.gif" alt="Cat Hiss GIF">
+</div>
+
 
 ## 👩🏽‍💻 | Linguagens:
 
