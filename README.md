@@ -2,7 +2,7 @@
 Me chamo Amanda, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas. 
 
 <div align="center">
-  <img src="https://media.tenor.com/ViIl_vZRt4kAAAAd/cat-hiss-cat.gif" alt="Cat Hiss GIF">
+  <img height="398" width="498" src="https://media.tenor.com/ViIl_vZRt4kAAAAd/cat-hiss-cat.gif" alt="Cat Hiss GIF">
 </div>
 
 
