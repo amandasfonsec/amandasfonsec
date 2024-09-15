@@ -1,13 +1,10 @@
-## Oie, seja bem-vindo(a) ao meu perfil!
+## 💜 | Oie, seja bem-vindo(a) ao meu perfil!
+Me chamo Amanda, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas. 
 
- <div>
-   <a href="https://github.com/amandasfonsec">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasfonsec&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasfonsec&layout=compact&langs_count=6&theme=tokyonight"/>
+<div class="tenor-gif-embed" data-postid="16182916" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><center>
+ <a href="https://tenor.com/view/cat-hiss-cat-hiss-mean-cat-leave-me-alone-gif-16182916">Cat Hiss GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></center></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-</div>
-
-## Linguagens:
+## 👩🏽‍💻 | Linguagens:
 
 <div style="display: inline_block"><br>
  <center>
@@ -18,12 +15,12 @@
  </center> 
 </div>
 
-## Estou aprendendo:
+## ✏️ | Estou aprendendo:
 <div style="display: inline_block"><br>
 <center>
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </center>
  
 </div>
