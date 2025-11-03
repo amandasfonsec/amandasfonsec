@@ -2,7 +2,7 @@
 
 <img align="right" alt="cat gif" src="https://media1.tenor.com/m/afm-g9k-fekAAAAC/pc.gif" style="border-radius: 50%; height: 200px; width: 200px;">
 
-I'm 20 years old, studying Systems Analysis and Development. I love reading, playing video games, and programming. I'm passionate about cats, and my favorite color is purple.
+I'm 20 years old, studying Systems Analysis and Development. I love reading and programming. I'm passionate about cats, and my favorite color is purple.
 
 ### | Programming Languages
 
